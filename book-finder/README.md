@@ -34,3 +34,5 @@ A simple and interactive Book Finder application that allows users to search for
 3. **Run The APP**
     yarn start or npm Start
 
+4. **This App is deployed in Netlify**
+- https://alex-book-finder.netlify.app/
